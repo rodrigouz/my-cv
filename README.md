@@ -54,5 +54,3 @@ You can find out more about it here: [LaTeX Project](http://www.latex-project.or
 
 ## Contact
 You are free to take my `.tex` file and modify it to create your own resume. Please don't use my resume for anything else without my permission, though!
-
-Good luck!
