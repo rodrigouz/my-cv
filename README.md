@@ -4,7 +4,7 @@
 
 
 ## What is My CV?
-[**My CV**](https://github.com/rodrigouz/my-cv) is LaTeX template for a **CV(Curriculum Vitae)** or **resume** by [Awesome-CV](https://github.com/posquit0/Awesome-CV). It is easy to customize your own template, especially since it is really written by a clean, semantic markup.
+[**My CV**](https://github.com/rodrigouz/my-cv) is LaTeX template for a **CV(Curriculum Vitae)** or **resume** inspired by [Awesome-CV](https://github.com/posquit0/Awesome-CV). It is easy to customize your own template, especially since it is really written by a clean, semantic markup.
 
 
 ## Preview
