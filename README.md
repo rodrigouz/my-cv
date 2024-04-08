@@ -30,7 +30,7 @@ $ xelatex {your-cv}.tex
 ```
 This should result in the creation of ``{your-cv}.pdf``
 
-If you would like to convert to an image format
+If you would like to convert the pdf to an image format
 ```bash
 convert -density 300 -colorspace RGB  -background white -flatten resume.pdf -quality 100 resume.png
 ```
