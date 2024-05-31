@@ -5,8 +5,8 @@
 % https://github.com/posquit0/Awesome-CV
 %
 % Author:
-% Rodrigo Ruiz <rodri.ruiz.oliver@gmail.com>
-% 
+% Claud D. Park <posquit0.bj@gmail.com>
+% http://www.posquit0.com
 %
 % Notes:
 % 1) This class file defines the structure and layout of the template file (cv.tex, resume.tex).
